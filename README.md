@@ -1,5 +1,7 @@
 # HackerRankSolutions
 
+This repository contains solution to the problems posted on [Hacker Rank](https://www.hackerrank.com). 
+
 ## 30 Days of Code with CPP
 
 | Serial Number |                                Questions                                       |                                      Solutions                                     |
@@ -27,4 +29,8 @@
 
 | Serial Number |                                Questions                                       | Solutions                |
 | ------------- |:------------------------------------------------------------------------------:| ------------------------:|
-|   Problem 1   | [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)  |  HelloWorld.cpp          |
+|   Problem 1   | [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)  |  [ForLoop.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/C++LanguageProficiency/ForLoop.cpp)          |
+|   Problem 2   | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)  |  [Functions.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/C++LanguageProficiency/Functions.cpp)          |
+|   Problem 3   | [Pointers](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)  |  [Pointers.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/C++LanguageProficiency/Pointers.cpp)          |
+|   Problem 4   | [Arrays Introduction](hackerrank.com/challenges/arrays-introduction/problem)  |  [ArraysIntroduction.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/C++LanguageProficiency/ArraysIntroduction.cpp)          |
+|   Problem 5   | [Variable Sized Array](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)  |  [VariableSizedArray.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/C++LanguageProficiency/VariableSizedArray.cpp)          |
