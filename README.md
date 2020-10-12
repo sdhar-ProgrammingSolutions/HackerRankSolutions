@@ -23,8 +23,9 @@ This repository contains solution to the problems posted on [Hacker Rank](https:
 |     Day 14     | [Scope](https://www.hackerrank.com/challenges/30-scope/problem)      | [Scope.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/Scope.cpp) |
 |     Day 15     | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)      | [LinkedList.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/LinkedList.cpp) |
 |     Day 16     | [Exceptions - String To Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)      | [ExceptionsStringToInteger.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/ExceptionsStringToInteger.cpp) |
+|     Day 17     | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)      | [MoreExceptions.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/MoreExceptions.cpp) |
 
-
+ 
 ## CPP Practice Challenges
 
 | Serial Number |                                Questions                                       | Solutions                |
