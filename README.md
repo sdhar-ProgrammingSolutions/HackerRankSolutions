@@ -28,7 +28,8 @@ This repository contains solution to the problems posted on [Hacker Rank](https:
 |     Day 19     | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)      | [Interfaces.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/Interfaces.cpp) |
 |     Day 20     | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)      | [Sorting.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/Sorting.cpp) |
 |     Day 21     | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)      | [Generics.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/Generics.cpp) |
-
+|     Day 22     | [Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)      | [BST.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/BST.cpp) [More Example](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/BSTexample.cpp) |
+|     Day 23     | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)      | [BinaryTrees.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/BinaryTrees.cpp) |
  
 ## CPP Practice Challenges
 
