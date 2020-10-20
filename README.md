@@ -30,6 +30,8 @@ This repository contains solution to the problems posted on [Hacker Rank](https:
 |     Day 21     | [Generics](https://www.hackerrank.com/challenges/30-generics/problem)      | [Generics.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/Generics.cpp) |
 |     Day 22     | [Binary Search Tree](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)      | [BST.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/BST.cpp) [More Example](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/BSTexample.cpp) |
 |     Day 23     | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)      | [BinaryTrees.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/BinaryTrees.cpp) |
+|     Day 24     | [Linked List Deletion](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)      | [LinkedListDeletion.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/LinkedListDeletion.cpp) |
+|     Day 25     | [Running Time And Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)      | [RunningTimeAndComplexity.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/RunningTimeAndComplexity.cpp) |
  
 ## CPP Practice Challenges
 
