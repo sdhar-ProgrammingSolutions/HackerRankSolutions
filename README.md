@@ -32,6 +32,7 @@ This repository contains solution to the problems posted on [Hacker Rank](https:
 |     Day 23     | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem)      | [BinaryTrees.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/BinaryTrees.cpp) |
 |     Day 24     | [Linked List Deletion](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)      | [LinkedListDeletion.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/LinkedListDeletion.cpp) |
 |     Day 25     | [Running Time And Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)      | [RunningTimeAndComplexity.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/RunningTimeAndComplexity.cpp) |
+|     Day 26     | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)      | [NestedLogic.cpp](https://github.com/sdhar-ProgrammingSolutions/HackerRankSolutions/blob/main/30DaysOfCode/NestedLogic.cpp) |
  
 ## CPP Practice Challenges
 
